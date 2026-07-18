@@ -23,6 +23,6 @@
 
 ## \[US05] Excluir meta
 
-* **Cenário 1 (Sucesso):** Exclusão confirmada -> A meta é apagada e o valor acumulado é devolvido à conta origem.
+* **Cenário 1 (Sucesso):** Exclusão confirmada -> A meta é apagado.
 * Cenário 2 (Erro): Usuário cancela a exclusão → A meta permanece cadastrada.
 
